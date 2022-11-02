@@ -1,0 +1,5 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+amb_mp_donetsk_lr,amb_mp_stadium_lsrs,ambient\amb_mp_stadium_ext_don4_lr.SL.75.48000.all
+amb_mp_donetsk_narrow_lr,amb_mp_stadium_narrow_lsrs,ambient\amb_mp_stadium_ext_don4_lr.SL.75.48000.all

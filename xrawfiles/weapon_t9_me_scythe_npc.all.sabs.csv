@@ -1,0 +1,4 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_melee_scythe_raise_first_npc,,weapons_t9\me_scythe\scythe_first_raise.LN.85.48000.all

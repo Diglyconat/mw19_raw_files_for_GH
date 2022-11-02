@@ -1,0 +1,7 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+veh_carpoc_nitro_end,,vehicles\nitro_boost\veh_carpoc_nitro_end.LN.50.44100.all
+veh_carpoc_nitro_lp,,vehicles\nitro_boost\veh_carpoc_nitro_lp.LL.50.44100.all
+veh_carpoc_nitro_strt,,vehicles\nitro_boost\veh_carpoc_nitro_strt.LN.50.44100.all
+veh_jeep_engine_npc,,vehicles\jeep\jeep_srt8_mono.LL.75.48000.all

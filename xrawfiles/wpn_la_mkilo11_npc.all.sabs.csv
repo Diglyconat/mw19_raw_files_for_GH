@@ -1,0 +1,31 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+wpn_mkilo11_fire_npc,,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_close_01.LN.85.44100.all
+wpn_mkilo11_fire_npc,,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_close_02.LN.85.44100.all
+wpn_mkilo11_fire_npc,,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_close_03.LN.85.44100.all
+wpn_mkilo11_fire_npc,,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_close_04.LN.85.44100.all
+wpn_mkilo11_fire_npc_dist,wpn_itango37_fire_npc_dist_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_dist_01.LN.75.44100.all
+wpn_mkilo11_fire_npc_dist,wpn_itango37_fire_npc_dist_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_dist_02.LN.75.44100.all
+wpn_mkilo11_fire_npc_dist,wpn_itango37_fire_npc_dist_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_dist_03.LN.75.44100.all
+wpn_mkilo11_fire_npc_dist,wpn_itango37_fire_npc_dist_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_dist_04.LN.75.44100.all
+wpn_mkilo11_fire_npc_far,wpn_itango37_fire_npc_far_atmo,s4\weapons\becho\wpn_becho_npc_fire_far_01.LN.75.44100.all
+wpn_mkilo11_fire_npc_far,wpn_itango37_fire_npc_far_atmo,s4\weapons\becho\wpn_becho_npc_fire_far_02.LN.75.44100.all
+wpn_mkilo11_fire_npc_far,wpn_itango37_fire_npc_far_atmo,s4\weapons\becho\wpn_becho_npc_fire_far_03.LN.75.44100.all
+wpn_mkilo11_fire_npc_med,wpn_itango37_fire_npc_med_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_med_01.LN.75.44100.all
+wpn_mkilo11_fire_npc_med,wpn_itango37_fire_npc_med_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_med_02.LN.75.44100.all
+wpn_mkilo11_fire_npc_med,wpn_itango37_fire_npc_med_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_med_03.LN.75.44100.all
+wpn_mkilo11_fire_npc_med,wpn_itango37_fire_npc_med_atmo,s4\weapons\mkilo11\wpn_mkilo11_npc_shot_med_04.LN.75.44100.all
+wpn_mkilo11_fire_npc_med_tail,,s4\weapons\tails\wpn_mk_npc_shot_tail_ext_01.LN.75.44100.all
+wpn_mkilo11_fire_npc_med_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_01.LN.75.44100.all
+wpn_mkilo11_fire_npc_med_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_02.LN.75.44100.all
+wpn_mkilo11_fire_npc_med_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_03.LN.75.44100.all
+wpn_mkilo11_fire_npc_tail,,s4\weapons\tails\wpn_mk_npc_shot_tail_ext_01.LN.85.44100.all
+wpn_mkilo11_fire_npc_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_01.LN.85.44100.all
+wpn_mkilo11_fire_npc_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_02.LN.85.44100.all
+wpn_mkilo11_fire_npc_tail,,s4\weapons\tails\wpn_lmg_npc_shot_tail_int_03.LN.85.44100.all
+wpn_mkilo11_npc_reload_charge,,s4\weapons\mkilo11\wpn_mkilo11_plr_reload_charge.LN.75.44100.all
+wpn_mkilo11_npc_reload_close,,s4\weapons\mkilo11\wpn_mkilo11_plr_reload_close.LN.75.44100.all
+wpn_mkilo11_npc_reload_fpo,,s4\weapons\mkilo11\wpn_mkilo11_plr_reload_fpo.LN.75.44100.all
+wpn_mkilo11_npc_reload_open,,s4\weapons\mkilo11\wpn_mkilo11_plr_reload_open.LN.75.44100.all
+wpn_mkilo11_npc_reload_roundin,,s4\weapons\mkilo11\wpn_mkilo11_plr_reload_roundin.LN.75.44100.all

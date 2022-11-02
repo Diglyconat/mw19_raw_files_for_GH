@@ -1,0 +1,24 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+br_cursed_chest_begin,,mp\br\event_cursed_chest\br_cursed_chest_begin.LN.75.48000.all
+br_cursed_chest_expl,,mp\br\event_cursed_chest\br_cursed_chest_expl.LN.75.48000.all
+br_cursed_chest_idle_lp,,mp\br\event_cursed_chest\br_cursed_chest_phase_idle_lp.LL.75.48000.all
+br_cursed_chest_opening,,mp\br\event_cursed_chest\br_cursed_chest_expl.LN.75.48000.all
+br_cursed_chest_phase_1_lp,,mp\br\event_cursed_chest\br_cursed_chest_phase_1_lp.LL.75.48000.all
+br_cursed_chest_phase_2_lp,,mp\br\event_cursed_chest\br_cursed_chest_phase_2_lp.LL.75.48000.all
+br_cursed_chest_phase_3_lp,,mp\br\event_cursed_chest\br_cursed_chest_phase_3_lp.LL.75.48000.all
+br_cursed_chest_zombie_death,,level\mp_don4\tu_canteen\powerups\mp_powerup_victim_death_killmonger_01.LN.75.44100.all
+br_cursed_chest_zombie_death,,level\mp_don4\tu_canteen\powerups\mp_powerup_victim_death_killmonger_02.LN.75.44100.all
+br_cursed_chest_zombie_death,,level\mp_don4\tu_canteen\powerups\mp_powerup_victim_death_killmonger_03.LN.75.44100.all
+br_cursed_chest_zombie_death,,level\mp_don4\tu_canteen\powerups\mp_powerup_victim_death_killmonger_04.LN.75.44100.all
+br_cursed_chest_zombie_death,,level\mp_don4\tu_canteen\powerups\mp_powerup_victim_death_killmonger_05.LN.75.44100.all
+br_cursed_chest_zombie_soul_absorb_lp,,mp\br\event_cursed_chest\br_cursed_chest_soul_absorb_lp.LL.75.48000.all
+br_cursed_chest_zombie_soul_absorb_stop,,mp\br\event_cursed_chest\br_cursed_chest_zombie_soul_absorb_stop_01.LN.75.44100.all
+br_cursed_chest_zombie_soul_absorb_stop,,mp\br\event_cursed_chest\br_cursed_chest_zombie_soul_absorb_stop_02.LN.75.44100.all
+br_cursed_chest_zombie_soul_absorb_stop,,mp\br\event_cursed_chest\br_cursed_chest_zombie_soul_absorb_stop_03.LN.75.44100.all
+br_cursed_chest_zombie_super_upgrade_charge,,mp\br\event_cursed_chest\br_cursed_chest_zmb_spr_upgrade_charge_01.LN.75.44100.all
+br_cursed_chest_zombie_super_upgrade_flare,,mp\br\event_cursed_chest\br_cursed_chest_zmb_spr_upgrade_flare_01.LN.75.44100.all
+ui_splash_cursed_chest_begin,,mp\br\event_cursed_chest\ui_splash_cursed_chest_begin.LN.75.48000.all
+ui_splash_cursed_chest_failure,,mp\br\event_cursed_chest\ui_splash_cursed_chest_failure.LN.75.48000.all
+ui_splash_cursed_chest_success,,mp\br\event_cursed_chest\ui_splash_cursed_chest_success.LN.75.48000.all

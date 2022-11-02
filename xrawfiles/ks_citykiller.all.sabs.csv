@@ -1,0 +1,15 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+amb_ks_citykiller_circle_gas_lr,amb_ks_citykiller_circle_gas_lsrs,mp\killstreaks\city_killer\amb_ks_citykiller_circle_gas_lr.SL.75.48000.all
+amb_ks_citykiller_circle_gas_lsrs,,mp\killstreaks\city_killer\amb_ks_citykiller_circle_gas_lsrs.SL.75.48000.all
+emt_citykiller_briefcase_gas_lp,,amb_emitters\air\emt_emt_gas_hiss_lp_09.LL.75.48000.all
+emt_citykiller_perimeter_gas_lp,,mp\killstreaks\city_killer\emt_citykiller_perimeter_gas_lp.SL.75.48000.all
+ks_citykiller_briefcase_open,,mp\killstreaks\city_killer\ks_citykiller_briefcase_open.PN.75.48000.all
+ks_citykiller_dist,ks_citykiller_swt,mp\killstreaks\nuke\iw8_mp_nuke_blast_low.LN.75.48000.all
+ks_citykiller_exp,ks_citykiller_dist,mp\killstreaks\nuke\iw8_mp_nuke_blast_main.LN.75.44100.all
+ks_citykiller_exp_low,,mp\killstreaks\nuke\iw8_mp_nuke_impact_low.LN.75.44100.all
+ks_citykiller_exp_tail,ks_citykiller_exp_low,mp\killstreaks\nuke\iw8_mp_nuke_impact_tail.LN.75.44100.all
+ks_citykiller_swt,ks_citykiller_exp_tail,explosions\gas_grenade\mp_gas_grenade_tail_01.LN.75.48000.all
+ks_citykiller_swt,ks_citykiller_exp_tail,explosions\gas_grenade\mp_gas_grenade_tail_02.LN.75.48000.all
+ks_citykiller_swt,ks_citykiller_exp_tail,explosions\gas_grenade\mp_gas_grenade_tail_04.LN.75.48000.all

@@ -1,0 +1,7 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+amb_mp_donetsk_lr,amb_mp_layover_lsrs,ambient\amb_layover_ext_lr.SL.75.48000.all
+amb_mp_donetsk_lr_pm,amb_mp_layover_lsrs,ambient\amb_mp_layover_pm_lr.SL.75.48000.all
+amb_mp_donetsk_narrow_lr,amb_mp_layover_narrow_lsrs,ambient\amb_layover_ext_lr.SL.75.48000.all
+amb_mp_donetsk_narrow_lr_pm,amb_mp_layover_narrow_lsrs,ambient\amb_mp_layover_pm_lr.SL.75.48000.all

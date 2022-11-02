@@ -1,0 +1,15 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+veh_bradley_engine_lp,,vehicles\bradley\temp_bradley_engine_lp.LL.75.48000.all
+veh_bradley_engine_start,veh_apc_dirt_skid,vehicles\bradley\temp_veh_bradley_engine_start_1.LN.75.48000.all
+veh_bradley_engine_start,veh_apc_dirt_skid,vehicles\bradley\temp_veh_bradley_engine_start_2.LN.75.48000.all
+veh_bradley_engine_start,veh_apc_dirt_skid,vehicles\bradley\temp_veh_bradley_engine_start_3.LN.75.48000.all
+veh_bradley_engine_stop,veh_apc_quick_stop_peel,vehicles\bradley\temp_veh_bradley_engine_stop_1.LN.75.48000.all
+veh_bradley_engine_stop,veh_apc_quick_stop_peel,vehicles\bradley\temp_veh_bradley_engine_stop_2.LN.75.48000.all
+veh_bradley_idle_high,,
+veh_bradley_idle_low,,
+veh_bradley_idle_lp,,vehicles\bradley\bradley_idle_npc.LL.75.48000.all
+veh_bradley_treads,,vehicles\bradley\bradley_engine_npc.SL.75.48000.all
+veh_bradley_treads_high,,vehicles\bradley\bradley_engine_npc.SL.75.48000.all
+veh_bradley_treads_low,,vehicles\bradley\bradley_engine_npc.SL.75.48000.all

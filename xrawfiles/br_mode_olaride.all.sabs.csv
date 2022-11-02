@@ -1,0 +1,17 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+hud_points_count,,mp\br\mode\olaride\sfx_hud_points_count.SN.75.44100.all
+last_call_enemy_squad_banner_lfe,,mp\br\ch3\sfx_last_call_enemy_squad_banner_lfe.PN.85.48000.all
+last_call_enemy_squad_banner_lr,last_call_enemy_squad_banner_lsrs,mp\br\ch3\sfx_last_call_enemy_squad_banner_lr.PN.85.48000.all
+last_call_enemy_squad_banner_lsrs,last_call_enemy_squad_banner_lfe,mp\br\ch3\sfx_last_call_enemy_squad_banner_lsrs.PN.85.48000.all
+last_call_your_squad_banner_lfe,,mp\br\ch3\sfx_last_call_your_squad_banner_lfe.PN.85.48000.all
+last_call_your_squad_banner_lr,last_call_your_squad_banner_lsrs,mp\br\ch3\sfx_last_call_your_squad_banner_lr.PN.85.48000.all
+last_call_your_squad_banner_lsrs,last_call_your_squad_banner_lfe,mp\br\ch3\sfx_last_call_your_squad_banner_lsrs.PN.85.48000.all
+olaride_bomb_site_warning_beep_loop,,mp\br\mode\olaride\olaride_bomb_site_warning_beep_loop.LL.85.48000.all
+olaride_defused_destroyed_banner,,mp\br\mode\olaride\sfx_defused_destroyed_bomb_site_banner.SN.75.44100.all
+player_lava_burn_damage_end,,weapons\grenade\molotov\fire_burning_body_lp_end_01.PN.75.48000.all
+player_lava_burn_damage_end,,weapons\grenade\molotov\fire_burning_body_lp_end_02.PN.75.48000.all
+player_lava_burn_damage_end,,weapons\grenade\molotov\fire_burning_body_lp_end_03.PN.75.48000.all
+player_lava_burn_damage_loop,,weapons\grenade\molotov\fire_burning_body_lp_01.SL.75.48000.all
+volcano_meter,,mp\br\ch3\sfx_volcano_meter.LN.75.48000.all

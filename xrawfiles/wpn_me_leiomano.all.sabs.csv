@@ -1,0 +1,7 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_s4_leiomano_inspect_01,,s4\weapons\melee\weapon\leiomano\weap_s4_leiomano_inspect_01.LN.75.36000.all
+weap_s4_leiomano_inspect_02,,s4\weapons\melee\weapon\leiomano\weap_s4_leiomano_inspect_02.LN.75.36000.all
+weap_s4_leiomano_inspect_03,,s4\weapons\melee\weapon\leiomano\weap_s4_leiomano_inspect_03.LN.75.36000.all
+weap_s4_leiomano_inspect_04,,s4\weapons\melee\weapon\leiomano\weap_s4_leiomano_inspect_04.LN.75.36000.all

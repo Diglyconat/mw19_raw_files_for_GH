@@ -1,0 +1,31 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_la_lafreefire_ads_down,,reloads\iw8_rpapa7\wfoly_la_rpapa7_ads_down.LN.75.44100.all
+weap_la_lafreefire_ads_up,,reloads\iw8_rpapa7\wfoly_la_rpapa7_ads_up.LN.75.44100.all
+weap_lafreefire_fire_plr,weap_lafreefire_fire_plr_mech,weapons_t9\la_freefire\weap_la_freefire_fire_plr_01.HN.85.44100.all
+weap_lafreefire_fire_plr,weap_lafreefire_fire_plr_mech,weapons_t9\la_freefire\weap_la_freefire_fire_plr_02.HN.85.44100.all
+weap_lafreefire_fire_plr,weap_lafreefire_fire_plr_mech,weapons_t9\la_freefire\weap_la_freefire_fire_plr_03.HN.85.44100.all
+weap_lafreefire_fire_plr,weap_lafreefire_fire_plr_mech,weapons_t9\la_freefire\weap_la_freefire_fire_plr_04.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\atmo\exterior\launchers\weap_rpapa7_fire_plr_atmo_01.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\atmo\exterior\launchers\weap_rpapa7_fire_plr_atmo_02.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\atmo\exterior\launchers\weap_rpapa7_fire_plr_atmo_03.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\atmo\exterior\launchers\weap_rpapa7_fire_plr_atmo_04.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_01.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_02.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_03.HN.85.44100.all
+weap_lafreefire_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_04.HN.85.44100.all
+weap_lafreefire_fire_plr_lfe,,weapons\lockon\weap_lockon_fire_plr_lfe.HN.100.44100.all
+weap_lafreefire_fire_plr_mech,weap_lafreefire_fire_plr_lfe,weapons\rpapa7\weap_rpapa7_fire_plr_mech_01.HN.85.44100.all
+wfoly_plr_lafreefire_end,,reloads\t9_la_freefire\fly_launcher_freefire_end_01.LN.75.44100.all
+wfoly_plr_lafreefire_end,,reloads\t9_la_freefire\fly_launcher_freefire_end_02.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_load,,reloads\t9_la_freefire\fly_launcher_freefire_load_01.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_load,,reloads\t9_la_freefire\fly_launcher_freefire_load_02.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_putaway,,reloads\t9_la_freefire\fly_launcher_freefire_putaway.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_twist,,reloads\t9_la_freefire\fly_launcher_freefire_twist_01.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_twist,,reloads\t9_la_freefire\fly_launcher_freefire_twist_02.LN.75.44100.all
+wfoly_plr_lafreefire_freefire_twist,,reloads\t9_la_freefire\fly_launcher_freefire_twist_03.LN.75.44100.all
+wfoly_plr_lafreefire_inspect_pt1,,reloads\t9_la_freefire\fly_la_freefire_inspect_pt1.LN.75.44100.all
+wfoly_plr_lafreefire_inspect_pt2,,reloads\t9_la_freefire\fly_la_freefire_inspect_pt2.LN.75.44100.all
+wfoly_plr_lafreefire_inspect_pt3,,reloads\t9_la_freefire\fly_la_freefire_inspect_pt3.LN.75.44100.all
+wfoly_plr_lafreefire_inspect_pt4,,reloads\t9_la_freefire\fly_la_freefire_inspect_pt4.LN.75.44100.all

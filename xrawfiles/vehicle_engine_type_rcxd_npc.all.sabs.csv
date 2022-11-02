@@ -1,0 +1,10 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+rev_engine_rcxd_npc,,vehicles\engine_type_rcxd\2020_traxxor_rc.LL.75.48000.all
+veh_boost_rcxd_npc,,vehicles\rcxd\recon_boost.LN.75.48000.all
+veh_boost_rcxd_npc_lp,,vehicles\rcxd\recon_boost_loop.LL.75.48000.all
+veh_jump_rcxd_npc,,vehicles\rcxd\recon_jump_00.LN.75.48000.all
+veh_jump_rcxd_npc,,vehicles\rcxd\recon_jump_01.LN.75.48000.all
+veh_jump_rcxd_npc,,vehicles\rcxd\recon_jump_02.LN.75.48000.all
+veh_jump_rcxd_npc,,vehicles\rcxd\recon_jump_03.LN.75.48000.all

@@ -1,0 +1,31 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_la_lastandard_ads_down,,reloads\iw8_kgolf\weap_la_kgolf_ads_down.LN.75.44100.all
+weap_la_lastandard_ads_up,,reloads\iw8_kgolf\weap_la_kgolf_ads_up.LN.75.44100.all
+weap_lastandard_fire_plr,weap_lastandard_fire_plr_mech,weapons_t9\la_standard\weap_la_standard_fire_plr_01.HN.85.44100.all
+weap_lastandard_fire_plr,weap_lastandard_fire_plr_mech,weapons_t9\la_standard\weap_la_standard_fire_plr_02.HN.85.44100.all
+weap_lastandard_fire_plr,weap_lastandard_fire_plr_mech,weapons_t9\la_standard\weap_la_standard_fire_plr_03.HN.85.44100.all
+weap_lastandard_fire_plr,weap_lastandard_fire_plr_mech,weapons_t9\la_standard\weap_la_standard_fire_plr_04.HN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\kgolf\weap_kgolf_fire_plr_atmo_01.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\kgolf\weap_kgolf_fire_plr_atmo_02.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\kgolf\weap_kgolf_fire_plr_atmo_03.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\kgolf\weap_kgolf_fire_plr_atmo_04.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_01.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_02.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_03.LN.85.44100.all
+weap_lastandard_fire_plr_atmo,,weapons\juliet\weap_juliet_launch_atmo_int_04.LN.85.44100.all
+weap_lastandard_fire_plr_lfe,,weapons\kgolf\weap_kgolf_fire_plr_lfe.HN.100.44100.all
+weap_lastandard_fire_plr_mech,weap_lastandard_fire_plr_lfe,weapons\kgolf\weap_kgolf_fire_plr_mech_01.HN.85.44100.all
+weap_lastandard_fire_plr_mech,weap_lastandard_fire_plr_lfe,weapons\kgolf\weap_kgolf_fire_plr_mech_02.HN.85.44100.all
+weap_lastandard_fire_plr_mech,weap_lastandard_fire_plr_lfe,weapons\kgolf\weap_kgolf_fire_plr_mech_03.HN.85.44100.all
+weap_lastandard_fire_plr_mech,weap_lastandard_fire_plr_lfe,weapons\kgolf\weap_kgolf_fire_plr_mech_04.HN.85.44100.all
+wfoly_plr_lastandard_end,,reloads\t9_la_standard\fly_launcher_standard_end.LN.75.44100.all
+wfoly_plr_lastandard_inspect_pt1,,reloads\t9_la_standard\fly_launcher_standard_inspect_pt1.LN.75.44100.all
+wfoly_plr_lastandard_inspect_pt2,,reloads\t9_la_standard\fly_launcher_standard_inspect_pt2.LN.75.44100.all
+wfoly_plr_lastandard_inspect_pt3,,reloads\t9_la_standard\fly_launcher_standard_inspect_pt3.LN.75.44100.all
+wfoly_plr_lastandard_inspect_pt4,,reloads\t9_la_standard\fly_launcher_standard_inspect_pt4.LN.75.44100.all
+wfoly_plr_lastandard_lower,,reloads\t9_la_standard\fly_launcher_standard_lower.LN.75.44100.all
+wfoly_plr_lastandard_raise,,reloads\t9_la_standard\fly_launcher_standard_raise.LN.75.44100.all
+wfoly_plr_lastandard_reload_pt1,,reloads\t9_la_standard\fly_launcher_standard_reload_pt1.LN.75.44100.all
+wfoly_plr_lastandard_reload_pt2,,reloads\t9_la_standard\fly_launcher_standard_reload_pt2.LN.75.44100.all

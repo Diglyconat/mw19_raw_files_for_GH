@@ -1,0 +1,9 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_melee_hammer_sickle_first_raise_plr,,reloads\t9_melee\weap_hammer_sickle_first_raise.LN.75.44100.all
+weap_melee_hammer_sickle_inspect_pt1,,weapons\melee\hammer_sickle\weap_melee_hammer_sickle_inspect_pt1.LN.75.44100.all
+weap_melee_hammer_sickle_inspect_pt2,,weapons\melee\hammer_sickle\weap_melee_hammer_sickle_inspect_pt2.LN.75.44100.all
+weap_melee_hammer_sickle_inspect_pt3,,weapons\melee\hammer_sickle\weap_melee_hammer_sickle_inspect_pt3.LN.75.44100.all
+weap_melee_hammer_sickle_inspect_pt4,,weapons\melee\hammer_sickle\weap_melee_hammer_sickle_inspect_pt4.LN.75.44100.all
+weap_melee_hammer_sickle_inspect_pt5,,weapons\melee\hammer_sickle\weap_melee_hammer_sickle_inspect_pt5.LN.75.44100.all

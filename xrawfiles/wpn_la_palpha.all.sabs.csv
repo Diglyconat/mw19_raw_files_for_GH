@@ -1,0 +1,18 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+wpn_palpha_plr_fire,wpn_palpha_plr_fwoosh,s4\weapons\palpha\wpn_palpha_plr_shot_01.HN.85.44100.all
+wpn_palpha_plr_fire,wpn_palpha_plr_fwoosh,s4\weapons\palpha\wpn_palpha_plr_shot_02.HN.85.44100.all
+wpn_palpha_plr_fire,wpn_palpha_plr_fwoosh,s4\weapons\palpha\wpn_palpha_plr_shot_01.HN.85.44100.all
+wpn_palpha_plr_fire,wpn_palpha_plr_fwoosh,s4\weapons\palpha\wpn_palpha_plr_shot_02.HN.85.44100.all
+wpn_palpha_plr_fire_low,wpn_palpha_plr_trigger,s4\weapons\palpha\wpn_palpha_plr_low.HN.100.44100.all
+wpn_palpha_plr_fire_low,wpn_palpha_plr_trigger,s4\weapons\palpha\wpn_palpha_plr_low.HN.100.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_01.HN.85.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_02.HN.85.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_03.HN.85.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_01.HN.85.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_02.HN.85.44100.all
+wpn_palpha_plr_fwoosh,wpn_palpha_plr_fire_low,s4\weapons\palpha\wpn_palpha_plr_fwoosh_03.HN.85.44100.all
+wpn_palpha_plr_reload_lower,,s4\weapons\palpha\wpn_palpha_plr_reload_lower.LN.75.44100.all
+wpn_palpha_plr_reload_rocketin,,s4\weapons\palpha\wpn_palpha_plr_reload_rocketin.LN.75.44100.all
+wpn_palpha_plr_trigger,,s4\weapons\palpha\wpn_palpha_plr_trigger.HN.85.44100.all

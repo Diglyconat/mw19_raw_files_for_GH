@@ -1,0 +1,11 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+emt_morse_code_wz_ch3_01,,mp\br\morse_code\emt_morse_code_wz_ch3_01.SN.75.48000.all
+emt_morse_code_wz_ch3_02,,mp\br\morse_code\emt_morse_code_wz_ch3_02.SN.75.48000.all
+emt_morse_code_wz_ch3_03,,mp\br\morse_code\emt_morse_code_wz_ch3_03.SN.75.48000.all
+emt_morse_code_wz_ch3_04,,mp\br\morse_code\emt_morse_code_wz_ch3_04.SN.75.48000.all
+emt_morse_code_wz_ch3_05,,mp\br\morse_code\emt_morse_code_wz_ch3_05.SN.75.48000.all
+emt_morse_code_wz_ch3_06,,mp\br\morse_code\emt_morse_code_wz_ch3_06.SN.75.48000.all
+emt_morse_code_wz_ch3_07,,mp\br\morse_code\emt_morse_code_wz_ch3_07.SN.75.48000.all
+emt_morse_code_wz_ch3_08,,mp\br\morse_code\emt_morse_code_wz_ch3_08.SN.75.48000.all

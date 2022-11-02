@@ -1,0 +1,32 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_s4_sledgehammer_inspect_01,,s4\weapons\melee\weapon\sledgehammer\weap_s4_sledgehammer_inspect_01.LN.75.36000.all
+weap_s4_sledgehammer_inspect_02,,s4\weapons\melee\weapon\sledgehammer\weap_s4_sledgehammer_inspect_02.LN.75.36000.all
+weap_s4_sledgehammer_inspect_03,,s4\weapons\melee\weapon\sledgehammer\weap_s4_sledgehammer_inspect_03.LN.75.36000.all
+weap_s4_sledgehammer_inspect_04,,s4\weapons\melee\weapon\sledgehammer\weap_s4_sledgehammer_inspect_04.LN.75.36000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_01.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_02.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_03.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_04.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_05.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_06.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_07.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_08.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_09.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_10.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_11.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_12.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_13.LN.85.48000.all
+wpn_war_sledgehammer_fire,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_fire_14.LN.85.48000.all
+wpn_war_sledgehammer_inspect_foley_01,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_inspect_foley_01.LN.85.48000.all
+wpn_war_sledgehammer_inspect_foley_02,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_inspect_foley_02.LN.85.48000.all
+wpn_war_sledgehammer_inspect_foley_03,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_inspect_foley_03.LN.85.48000.all
+wpn_war_sledgehammer_inspect_foley_04,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_inspect_foley_04.LN.85.48000.all
+wpn_war_sledgehammer_inspect_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_inspect_swing.LN.85.48000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_01.LN.75.36000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_02.LN.75.36000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_03.LN.75.36000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_04.LN.75.36000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_05.LN.75.36000.all
+wpn_war_sledgehammer_swing,,s4\weapons\melee\weapon\sledgehammer\wpn_war_sledgehammer_swing_06.LN.75.36000.all

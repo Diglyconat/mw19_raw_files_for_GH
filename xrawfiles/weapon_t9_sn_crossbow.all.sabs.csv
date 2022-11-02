@@ -1,0 +1,35 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+weap_sn_t9crossbow_ads_down,,reloads\iw8_delta\weap_sn_delta_ads_down.LN.75.44100.all
+weap_sn_t9crossbow_ads_up,,reloads\iw8_delta\weap_sn_delta_ads_up.LN.75.44100.all
+weap_t9crossbow_dryfire_plr,,weapons\crossbow\weap_crossbow_dryfire_01.LN.75.44100.all
+weap_t9crossbow_fire_plr,weap_t9crossbow_fire_plr_mech,weapons_t9\sn_crossbow\weap_sn_crossbow_start_01a.HN.85.48000.all
+weap_t9crossbow_fire_plr,weap_t9crossbow_fire_plr_mech,weapons_t9\sn_crossbow\weap_sn_crossbow_start_01b.HN.85.48000.all
+weap_t9crossbow_fire_plr,weap_t9crossbow_fire_plr_mech,weapons_t9\sn_crossbow\weap_sn_crossbow_start_01c.HN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\exterior\crossbow\weap_crossbow_atmo_01.LN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\exterior\crossbow\weap_crossbow_atmo_02.LN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\exterior\crossbow\weap_crossbow_atmo_03.LN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\interior\crossbow\weap_crossbow_atmo_int_01.LN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\interior\crossbow\weap_crossbow_atmo_int_02.LN.85.48000.all
+weap_t9crossbow_fire_plr_atmo,,weapons\atmo\interior\crossbow\weap_crossbow_atmo_int_03.LN.85.48000.all
+weap_t9crossbow_fire_plr_lfe,,weapons\crossbow\weap_crossbow_lfe_01.HN.100.44100.all
+weap_t9crossbow_fire_plr_lfe,,weapons\crossbow\weap_crossbow_lfe_01.HN.100.44100.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_01.HN.85.48000.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_02.HN.85.48000.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_03.HN.85.48000.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_ads_01.HN.85.48000.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_ads_02.HN.85.48000.all
+weap_t9crossbow_fire_plr_mech,weap_t9crossbow_fire_plr_lfe,weapons\crossbow\weap_crossbow_mech_ads_03.HN.85.48000.all
+wfoly_plr_sn_t9crossbow_drop,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_drop.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_drop_quick,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_drop_quick.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_inspect_01,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_inspect_01.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_inspect_02,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_inspect_02.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_inspect_03,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_inspect_03.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_raise,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_raise.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_raise_quick,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_raise_quick.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_reload_end,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_reload_end.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_reload_load_arrow,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_reload_load_arrow.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_reload_pull_string,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_reload_pull_string.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_reload_ready_arrow,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_reload_ready_arrow.LN.75.44100.all
+wfoly_plr_sn_t9crossbow_reload_start,,reloads\t9_sn_crossbow\wfoly_sn_t9crossbow_reload_start.LN.75.44100.all

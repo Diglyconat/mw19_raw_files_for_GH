@@ -1,0 +1,33 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+plane_ch3_bomb_reload,,vehicles\plane_ch3\plane_ch3_bomb_reload.LN.75.44100.all
+plane_ch3_bomb_reload,,vehicles\plane_ch3\plane_ch3_bomb_reload.LN.75.44100.all
+s4_bt_bomb_deploy_3d,,vehicles\s4_bt\s4_bt_bomb_deploy.LN.85.48000.all
+s4_bt_bomb_deploy_3d,,vehicles\s4_bt\s4_bt_bomb_deploy.LN.85.48000.all
+s4_bt_engine_effort_lp,,vehicles\s4_fd\s4_fd_engine_effort_lp.LL.85.48000.all
+s4_bt_engine_effort_lp,,vehicles\s4_fd\s4_fd_engine_effort_int_lp.LL.85.48000.all
+s4_bt_engine_idle_lp,,vehicles\s4_fd\s4_fd_engine_idle_lp.LL.85.48000.all
+s4_bt_engine_idle_lp,,vehicles\s4_fd\s4_fd_engine_idle_int_lp.LL.85.48000.all
+s4_bt_engine_operating_lp,,vehicles\s4_fd\s4_fd_engine_operating_lp.LL.85.48000.all
+s4_bt_engine_operating_lp,,vehicles\s4_fd\s4_fd_engine_operating_int_lp.LL.85.48000.all
+s4_bt_shutdown_rev,,vehicles\s4_fd\s4_fd_shutdown_rev.LN.85.48000.all
+s4_bt_shutdown_rev,,vehicles\s4_fd\s4_fd_shutdown_rev.LN.85.48000.all
+s4_bt_startup_rev,,vehicles\s4_bt\s4_bt_startup_rev.LN.85.48000.all
+s4_bt_startup_rev,,vehicles\s4_bt\s4_bt_startup_rev.LN.85.48000.all
+s4_bt_thrust_cruising_lp,,vehicles\s4_bt\s4_bt_thrust_cruising_lp.LL.85.48000.all
+s4_bt_thrust_cruising_lp,,vehicles\s4_bt\s4_bt_thrust_int_lp.LL.85.48000.all
+s4_bt_thrust_loaded_lp,,vehicles\s4_bt\s4_bt_thrust_loaded_lp.LL.85.48000.all
+s4_bt_thrust_loaded_lp,,
+s4_bt_thrust_unloaded_lp,,vehicles\s4_fd\s4_fd_thrust_unloaded_lp.LL.85.48000.all
+s4_bt_thrust_unloaded_lp,,
+s4_bt_touchdown_rumble,,vehicles\impacts\lrg_phys_impact_light_dirt_01.LN.75.48000.all
+s4_bt_touchdown_rumble,,vehicles\impacts\lrg_phys_impact_light_dirt_02.LN.75.48000.all
+s4_bt_touchdown_rumble,,vehicles\impacts\lrg_phys_impact_light_dirt_03.LN.75.48000.all
+s4_bt_touchdown_rumble,,vehicles\impacts\lrg_phys_impact_light_dirt_04.LN.75.48000.all
+s4_bt_touchdown_rumble,,vehicles\impacts\lrg_phys_impact_light_dirt_05.LN.75.48000.all
+s4_bt_wheel_taxi,,vehicles\surface\tires_large_dirt_roll_fast_lp.LL.75.48000.all
+s4_bt_wheel_taxi,,vehicles\surface\tires_large_asphalt_roll_fast_tonal_lp.LL.75.48000.all
+s4_bt_wheel_taxi,,vehicles\surface\iw8_wet_car_tires_lp.LL.75.48000.all
+s4_bt_wheel_taxi,,vehicles\surface\iw8_tires_water.LL.75.48000.all
+s4_bt_wheel_touchdown,s4_bt_touchdown_rumble,vehicles\s4_fd\s4_fd_wheel_touchdown.LN.85.48000.all

@@ -1,0 +1,32 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+amb_lep_air_raid_siren_loop_lr,amb_lep_air_raid_siren_loop_lsrs,level\mp_don4\lep\amb_lep_air_raid_siren_loop_lr.LL.75.48000.all
+amb_lep_air_raid_siren_loop_lsrs,,level\mp_don4\lep\amb_lep_air_raid_siren_loop_lsrs.LL.75.48000.all
+amb_lep_bombers_attack_state01_lr,amb_lep_bombers_attack_state01_lsrs,level\mp_don4\lep\amb_lep_bombers_attack_state01_lr_short.LL.75.48000.all
+amb_lep_bombers_attack_state01_lsrs,amb_lep_flak_loop_lr,level\mp_don4\lep\amb_lep_bombers_attack_state01_lsrs_short.LL.75.48000.all
+amb_lep_flak_loop_lr,amb_lep_flak_loop_lsrs,ambient\amb_flak_loop_lr_short.LL.75.48000.all
+amb_lep_flak_loop_lsrs,,ambient\amb_flak_loop_lsrs_short.LL.75.48000.all
+amb_lep_flak_loop_lsrs,,ambient\amb_flak_loop_lsrs_short.LL.75.48000.all
+weap_x2_ac130_bomb_expl_atmo,weap_x2_ac130_bomb_expl_debris,level\mp_don4\x2\weap_x2_ac130_bomb_expl_atmo_01.LN.75.48000.all
+weap_x2_ac130_bomb_expl_atmo,weap_x2_ac130_bomb_expl_debris,level\mp_don4\x2\weap_x2_ac130_bomb_expl_atmo_02.LN.75.48000.all
+weap_x2_ac130_bomb_expl_atmo,weap_x2_ac130_bomb_expl_debris,level\mp_don4\x2\weap_x2_ac130_bomb_expl_atmo_03.LN.75.48000.all
+weap_x2_ac130_bomb_expl_atmo,weap_x2_ac130_bomb_expl_debris,level\mp_don4\x2\weap_x2_ac130_bomb_expl_atmo_04.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_01.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_02.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_03.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_04.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_05.LN.75.48000.all
+weap_x2_ac130_bomb_expl_debris,weap_x2_ac130_bomb_expl_trans_lfe,explosions\mortar_short\expl_mortar_debris_rck_06.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_01.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_02.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_03.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_04.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_05.LN.75.48000.all
+weap_x2_ac130_bomb_expl_far,,level\mp_don4\x2\weap_x2_ac130_bomb_expl_far_06.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans,weap_x2_ac130_bomb_expl_atmo,level\mp_don4\x2\weap_x2_ac130_bomb_expl_trans_01.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans,weap_x2_ac130_bomb_expl_atmo,level\mp_don4\x2\weap_x2_ac130_bomb_expl_trans_02.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans,weap_x2_ac130_bomb_expl_atmo,level\mp_don4\x2\weap_x2_ac130_bomb_expl_trans_03.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans,weap_x2_ac130_bomb_expl_atmo,level\mp_don4\x2\weap_x2_ac130_bomb_expl_trans_04.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans,weap_x2_ac130_bomb_expl_atmo,level\mp_don4\x2\weap_x2_ac130_bomb_expl_trans_05.LN.75.48000.all
+weap_x2_ac130_bomb_expl_trans_lfe,,explosions\mortar_short\expl_mortar_lfe1.LN.75.48000.all

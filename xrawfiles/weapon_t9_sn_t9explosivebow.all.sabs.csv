@@ -1,0 +1,23 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+wpn_t9explosivebow_ads_in,,weapons_t9\recurvebow\wpn_recurvebow_ads_in_01.LN.75.44100.all
+wpn_t9explosivebow_ads_in,,weapons_t9\recurvebow\wpn_recurvebow_ads_in_02.LN.75.44100.all
+wpn_t9explosivebow_ads_out,,weapons_t9\recurvebow\wpn_recurvebow_ads_out_01.LN.75.44100.all
+wpn_t9explosivebow_ads_out,,weapons_t9\recurvebow\wpn_recurvebow_ads_out_02.LN.75.44100.all
+wpn_t9explosivebow_arrow_whistle,,weapons_t9\recurvebow\wpn_recurvebow_arrow_whistle_01.LN.85.48000.all
+wpn_t9explosivebow_arrow_whistle,,weapons_t9\recurvebow\wpn_recurvebow_arrow_whistle_02.LN.85.48000.all
+wpn_t9explosivebow_arrow_whistle,,weapons_t9\recurvebow\wpn_recurvebow_arrow_whistle_03.LN.85.48000.all
+wpn_t9explosivebow_arrow_whistle,,weapons_t9\recurvebow\wpn_recurvebow_arrow_whistle_04.LN.85.48000.all
+wpn_t9explosivebow_arrow_whistle,,weapons_t9\recurvebow\wpn_recurvebow_arrow_whistle_05.LN.85.48000.all
+wpn_t9explosivebow_draw,,weapons_t9\sn_explobow\wpn_explobow_draw_01.LN.75.44100.all
+wpn_t9explosivebow_draw,,weapons_t9\sn_explobow\wpn_explobow_draw_02.LN.75.44100.all
+wpn_t9explosivebow_draw,,weapons_t9\sn_explobow\wpn_explobow_draw_03.LN.75.44100.all
+wpn_t9explosivebow_fire_plr,wpn_t9explosivebow_arrow_whistle,weapons_t9\recurvebow\plr_fire\wpn_recurvebow_fire_01.LN.85.48000.all
+wpn_t9explosivebow_fire_plr,wpn_t9explosivebow_arrow_whistle,weapons_t9\recurvebow\plr_fire\wpn_recurvebow_fire_02.LN.85.48000.all
+wpn_t9explosivebow_fire_plr,wpn_t9explosivebow_arrow_whistle,weapons_t9\recurvebow\plr_fire\wpn_recurvebow_fire_03.LN.85.48000.all
+wpn_t9explosivebow_fire_plr,wpn_t9explosivebow_arrow_whistle,weapons_t9\recurvebow\plr_fire\wpn_recurvebow_fire_04.LN.85.48000.all
+wpn_t9explosivebow_reload,,weapons_t9\recurvebow\plr_reload\wpn_recurvebow_reload_01.LN.75.44100.all
+wpn_t9explosivebow_reload,,weapons_t9\recurvebow\plr_reload\wpn_recurvebow_reload_02.LN.75.44100.all
+wpn_t9explosivebow_reload,,weapons_t9\recurvebow\plr_reload\wpn_recurvebow_reload_03.LN.75.44100.all
+wpn_t9explosivebow_tension_lp,,weapons_t9\recurvebow\wpn_recurvebow_tension_lp.LL.75.44100.all

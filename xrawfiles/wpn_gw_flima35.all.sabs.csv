@@ -1,0 +1,32 @@
+Name,Secondary,File
+# Note: Secondary is triggered by this alias, so a chain of secondaries are played at the same time
+# Note: There are other settings that cannot be pulled, so these sounds may not sound the same as in-game without editing
+wpn_flame_body_long,,s4\weapons\flima35\wpn_fire_body_dmg_long_01.LN.85.44100.all
+wpn_flame_body_long,,s4\weapons\flima35\wpn_fire_body_dmg_long_02.LN.85.44100.all
+wpn_flame_body_long,,s4\weapons\flima35\wpn_fire_body_dmg_long_03.LN.85.44100.all
+wpn_flame_body_long,,s4\weapons\flima35\wpn_fire_body_dmg_long_04.LN.85.44100.all
+wpn_flame_body_long,,s4\weapons\flima35\wpn_fire_body_dmg_long_05.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_01.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_02.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_03.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_04.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_05.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_06.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_07.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_08.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_09.LN.85.44100.all
+wpn_flame_body_short,,s4\weapons\flima35\wpn_fire_body_dmg_short_10.LN.85.44100.all
+wpn_flima35_plr_fire_loop,,s4\weapons\flima35\wpn_flima35_plr_shot_loop.LL.85.44100.all
+wpn_flima35_plr_fire_mech,,s4\weapons\flima35\wpn_flima35_plr_shot_mech_01.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_01.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_02.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_03.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_04.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_05.LN.85.44100.all
+wpn_flima35_plr_fire_start,wpn_flima35_plr_fire_mech,s4\weapons\flima35\wpn_flima35_plr_shot_start_06.LN.85.44100.all
+wpn_flima35_plr_fire_stop,,s4\weapons\flima35\wpn_flima35_plr_shot_stop_01.LN.85.44100.all
+wpn_flima35_plr_fire_stop,,s4\weapons\flima35\wpn_flima35_plr_shot_stop_02.LN.85.44100.all
+wpn_flima35_plr_fire_stop,,s4\weapons\flima35\wpn_flima35_plr_shot_stop_03.LN.85.44100.all
+wpn_flima35_plr_fire_stop,,s4\weapons\flima35\wpn_flima35_plr_shot_stop_04.LN.85.44100.all
+wpn_flima35_plr_raise,,s4\weapons\flima35\wpn_flima35_plr_raise.LN.75.44100.all
+wpn_flima35_plr_reload,,s4\weapons\flima35\wpn_flima35_plr_reload.LN.75.44100.all
